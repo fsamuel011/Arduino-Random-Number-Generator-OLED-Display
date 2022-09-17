@@ -1,5 +1,8 @@
 # Arduino-Random-Number-Generator-OLED-Display
-This is a [Viral Science](https://www.viralsciencecreativity.com/post/arduino-random-number-generator-oled-display) breadboard project. At the press of a button, the OLED display generates a random number.
+
+September 29, 2021
+
+This is a [Viral Science](https://www.viralsciencecreativity.com/post/arduino-random-number-generator-oled-display) Arduino breadboard project. At the press of a button, the OLED display generates a random number.
 
 ![image](https://user-images.githubusercontent.com/93152842/190871977-1763f4cd-5117-45ac-a434-d19ebc2f8903.png)
 *Check out the [Youtube video](https://youtu.be/sF6vP_R9n7U) for a demo!*
