@@ -10,6 +10,7 @@ This is a [Viral Science](https://www.viralsciencecreativity.com/post/arduino-ra
 | Arduino Uno Rev3 | 1 | 
 | Push button | 1 |
 | 220Ω R | 1 |
+| OLED Display | 1|
 
 ## Schematic
 ![image](https://user-images.githubusercontent.com/93152842/190871946-f943584b-77fd-4adb-9b74-d7d2a6a11f0c.png)
